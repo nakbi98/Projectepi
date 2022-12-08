@@ -1,6 +1,7 @@
 # Projectepi
 ### Data Analyst Project
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nakbi98/Projectepi/main)
 
 
 ### Lionel Messi
